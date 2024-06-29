@@ -1,0 +1,17 @@
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DAL.deps.json
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DAL.runtimeconfig.json
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DAL.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DAL.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DATA.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\bin\Debug\net8.0\15-DATA.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.csproj.CopyComplete
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\refint\15-DAL.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\15-DAL.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DAL\obj\Debug\net8.0\ref\15-DAL.dll

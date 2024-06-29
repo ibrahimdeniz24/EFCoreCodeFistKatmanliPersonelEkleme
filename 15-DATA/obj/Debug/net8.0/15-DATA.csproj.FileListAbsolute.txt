@@ -1,0 +1,11 @@
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\bin\Debug\net8.0\15-DATA.deps.json
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\bin\Debug\net8.0\15-DATA.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\bin\Debug\net8.0\15-DATA.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\refint\15-DATA.dll
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\15-DATA.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\HS-15 Dersler\EF\TutorialEFCore\15-DATA\obj\Debug\net8.0\ref\15-DATA.dll
